@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>hmis</groupId>
     <artifactId>theme</artifactId>
-    <version>0.0.1</version>
+    <version>0.5.0</version>
     <packaging>jar</packaging>
     
     <properties>
@@ -12,7 +12,7 @@
         <maven.compiler.source>25</maven.compiler.source>
         <maven.compiler.target>25</maven.compiler.target>
         <gwt.version>2.13.1</gwt.version>
-        <exec.mainClass>hmis.css.Css</exec.mainClass>
+        <exec.mainClass>hmis.theme.Theme</exec.mainClass>
     </properties>
     
     <dependencies>
